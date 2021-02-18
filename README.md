@@ -1,4 +1,4 @@
-# atrox_LTSS
+# Data file and Jupyter Notebook for Analyses of Levine, Schuett, and Booth (in review)
 
 data file: atrox_structure.csv
 
