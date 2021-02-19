@@ -1,6 +1,9 @@
-# Data file and Jupyter Notebook for Analyses of Levine, Schuett, and Booth (in review)
+# Data files and Jupyter Notebook for Analyses of Levine, Schuett, and Booth (in review)
 
-data file: atrox_structure.csv
+Stacks reference-aligned data file: atrox_structure_reference.csv
+
+
+Stacks denovo data file: atrox_structure_denovo.csv
 
 
 jupyter notebook: atrox_paternal_alleles.ipynb
