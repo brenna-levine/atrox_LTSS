@@ -1,0 +1,35 @@
+PLINK v1.90b5.2 64-bit (9 Jan 2018)
+Options in effect:
+  --allow-extra-chr
+  --file plink
+  --maf 0.5
+  --make-rel
+  --out atrox_denovo_maf
+  --recode
+
+Hostname: schooner1.oscer.ou.edu
+Working directory: /scratch/blevine/STACKS_L2011_01_02_03/projects/atrox/tests.denovo/stacks.M3/modified_gstacks
+Start time: Tue Feb 23 10:36:34 2021
+
+Random number seed: 1614098194
+64166 MB RAM detected; reserving 32083 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (4228 variants, 9 people).
+--file: atrox_denovo_maf-temporary.bed + atrox_denovo_maf-temporary.bim +
+atrox_denovo_maf-temporary.fam written.
+4228 variants loaded from .bim file.
+9 people (0 males, 0 females, 9 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to atrox_denovo_maf.nosex .
+Using up to 47 threads (change this with --threads).
+Before main variant filters, 9 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+3811 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+417 variants and 9 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+Relationship matrix written to atrox_denovo_maf.rel , and IDs written to
+atrox_denovo_maf.rel.id .
+--recode ped to atrox_denovo_maf.ped + atrox_denovo_maf.map ... done.
+
+End time: Tue Feb 23 10:36:34 2021
